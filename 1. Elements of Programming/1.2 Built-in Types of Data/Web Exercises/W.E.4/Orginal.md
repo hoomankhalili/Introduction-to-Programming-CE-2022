@@ -1,0 +1,1 @@
+**CMYK to RGB color matching.** Write a program CMYKtoRGB that reads in four command line inputs C, M, Y, and K between 0 and 1, and prints the corresponding RGB parameters. Devise the appropriate formula by "inverting" the RGB to CMYK conversion formula.

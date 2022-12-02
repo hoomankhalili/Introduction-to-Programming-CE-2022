@@ -1,0 +1,1 @@
+**Discriminant of cubic polynomial.** Given the coefficients b, c, and d of the cubic polynomial x^3 + bx^2 + cx + d, write an expression to compute the discriminant b^2c^2 - 4c^3 - 4b^3d - 27d^2 + 18bcd.

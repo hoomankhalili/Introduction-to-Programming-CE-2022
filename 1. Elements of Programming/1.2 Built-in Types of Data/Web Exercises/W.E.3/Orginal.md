@@ -1,0 +1,1 @@
+**RGB to YIQ color converter.** Write a program RGBtoYIQ.javathat takes an RGB color (three integers between 0 and 255) and transforms it to a [YIQ color](https://en.wikipedia.org/wiki/YIQ) (three different real numbers Y, I, and Q, with 0 ≤ Y ≤ 1, –0.5957 ≤ I ≤ 0.5957, and –0.5226 ≤ Q ≤ 0.5226). Write a program YIQtoRGB.java that applies the inverse transformation.
