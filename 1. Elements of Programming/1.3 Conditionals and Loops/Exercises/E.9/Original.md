@@ -1,0 +1,1 @@
+Modify **Binary.java** to get a program Modify Kary.java that takes a second command-line argument K and converts the first argument to base K. Assume the base is between 2 and 16. For bases greater than 10, use the letters A through F to represent the digits 10 through 15, respectively.
