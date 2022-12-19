@@ -1,0 +1,1 @@
+***Loaded dice.*** [Stephen Rudich] Suppose you have three, three sided dice. A: {2, 6, 7}, B: { 1, 5, 9}, and C: {3, 4, 8}. Two players roll a die and the one with the highest value wins. Which die would you choose?

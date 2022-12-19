@@ -1,0 +1,1 @@
+**World series.** The baseball world series is a best of 7 competition, where the first team to win four games wins the World Series. Suppose the stronger team has probability p > 1/2 of winning each game. Write a program to estimate the chance that the weaker teams wins the World Series and to estimate how many games on average it will take.
