@@ -1,0 +1,1 @@
+چرا از شرط  (Math.abs(t*t - c) > EPSILON) در Sqrt.java به جای Math.abs(t - c/t) > t*EPSILON) استفاده نمی کنیم؟

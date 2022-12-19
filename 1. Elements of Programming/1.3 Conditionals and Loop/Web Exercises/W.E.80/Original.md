@@ -1,0 +1,1 @@
+***Wind chill revisited.*** The wind chill formula from Exercise 1.2.14 is only valid if the wind speed is above 3MPH and below 110MPH and the temperature is below 50 degrees Fahrenheit and above -50 degrees. Modify your solution to print an error message if the user types in a value outside the allowable range.
