@@ -1,1 +1,0 @@
-Write a program Heart.java that takes a command-line argument N and prints a heart.
