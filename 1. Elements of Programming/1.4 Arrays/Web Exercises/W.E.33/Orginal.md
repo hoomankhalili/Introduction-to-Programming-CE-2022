@@ -1,0 +1,1 @@
+**Boltzmann distribution.** Here's a simple model to approximate the Boltzmann distribution from statistical physics: generate 100 random integers between 1 and 10. If the sum is exactly 200 keep this trial. Repeat this process until you get 1,000 trials that meet the criterion. Now plot a histogram of the number of times each of the 10 integers occurs.

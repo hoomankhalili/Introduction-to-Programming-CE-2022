@@ -1,0 +1,1 @@
+**Kendall's tau distance.** Given two permutations, Kendall's tau distance is the number of pairs out of position. "Bubblesort metric." Useful in top-k lists. Optimal Kemeny rank aggregation in voting theory minimizes Kendall tau distance. Also useful for ranking genes using several expression profiles, ranking search engine results, etc.

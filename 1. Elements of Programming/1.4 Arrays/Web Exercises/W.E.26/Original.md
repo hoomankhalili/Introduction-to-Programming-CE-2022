@@ -1,0 +1,1 @@
+***Most likely roll.*** Alice and Bob are in a heated argument about whether if they repeatedly roll a die until the sum is more than 12, is 13 the most likely sum? Write a program MostLikelyRoll.java to simulate the process a million times and produce a table of the fraction of times the sum is 13, 14, 15, 16, 17, and 18.

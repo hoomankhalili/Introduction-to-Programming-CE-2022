@@ -1,0 +1,1 @@
+**Connect Four.** Given an N-by-N grid with each cell either occupied by an 'X', an 'O', or empty, write a program to find the longest sequence of consecutive 'X's either horizontal, vertically, or diagonally. To test your program, you can create a random grid where each cell contains an 'X' or 'O' with probability 1/3.

@@ -1,0 +1,1 @@
+***Goldbach conjecture.*** In 1742, Christian Goldbach conjectured that every even number greater than 2 could be written as the sum of two primes. For example, 16 = 3 + 13. Write a program Goldbach.java that takes one command line parameter N and expresses N as the sum of two primes. Goldbach's conjecture is still unresolved, but it is known to be true for all N < 1014.

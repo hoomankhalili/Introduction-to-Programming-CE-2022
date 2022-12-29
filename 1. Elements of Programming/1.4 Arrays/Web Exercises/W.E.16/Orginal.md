@@ -1,0 +1,1 @@
+**Voting and social choice theory.** Plurality (US presidential election), run-off elections, sequential run-off elections (Australia, Ireland, Princeton faculty committees), Condorcet. Kemeny rank aggregation. Arrow's impossibility theorem. Same ideas for sports, google, meta-search, machine learning

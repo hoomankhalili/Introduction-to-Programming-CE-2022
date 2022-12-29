@@ -1,0 +1,1 @@
+***Sum of powers conjecture.*** Redo Exercise 1.3.x, but precompute the 5th powers of all relevant integers. Evaluate how much time this saves. The program Euler.java searches for integral solutions to a5 + b5 + c5 + d5= e5.

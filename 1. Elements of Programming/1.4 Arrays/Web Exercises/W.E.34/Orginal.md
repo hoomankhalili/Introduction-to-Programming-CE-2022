@@ -1,0 +1,1 @@
+**Doubly stochastic.** Write a program to read in an N-by-N matrix of real numbers and print true if the matrix is doubly stochastic, and false otherwise. A matrix is stochastic if all of the row and column sums are 1. Since you are dealing with floating point numbers, allow the sums to be between 1 - ε and 1 + ε where ε= 0.000000001.

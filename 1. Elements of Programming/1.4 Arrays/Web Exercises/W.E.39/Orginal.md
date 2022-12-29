@@ -1,0 +1,1 @@
+Modify DayOfWeek.java so that it reads in a date and print which day of the week that date falls on. Your program should take three command line arguments, M (month), D (day), and Y (year). Do not use any if-else statements; instead use a string array consisting of the names of the 7 days of the week.

@@ -1,0 +1,1 @@
+***Above average.*** 90% of incoming college students rate themselves as above average. Write a program AboveAverage.java that takes a command-line argument n, reads in n integers from standard input, and prints the fraction of values that are strictly above the average value.

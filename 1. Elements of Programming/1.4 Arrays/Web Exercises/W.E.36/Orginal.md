@@ -1,0 +1,1 @@
+Modify RandomStudent.java so that it stores a parallel array of type boolean named isFemale, where element i is true if student i is female and false otherwise. Now, print one male student at random and one female student at random. Hint: use a do-while loop to generate random integers until you get one that indexes a male student.

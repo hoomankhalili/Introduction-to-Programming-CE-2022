@@ -1,0 +1,1 @@
+**Gaps with no primes.** Find the longest consecutive sequence of integers with no primes. Write a program PrimeGap.java that takes a command line parameter N and prints the largest block of integers between 2 and N with no primes.

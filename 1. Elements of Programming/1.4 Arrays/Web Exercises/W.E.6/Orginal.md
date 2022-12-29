@@ -1,0 +1,1 @@
+**Linear feedback shift register.** Rewrite linear feedback shift register from Chapter 1 by using an array to streamline it and makes it more extensible, e.g., if the number of cells in the shift register increases. Program LFSR.java uses a boolean Hint: use the ^ operator to take the exclusive or of two boolean values.
