@@ -1,0 +1,1 @@
+Modify NPerLine.java so that it prints the integers from 1 to 1000 with n integers per line. Make the integers line up by printing the right number of spaces before an integer (e.g., three for 1-9, two for 10-99, and one for 100-999).

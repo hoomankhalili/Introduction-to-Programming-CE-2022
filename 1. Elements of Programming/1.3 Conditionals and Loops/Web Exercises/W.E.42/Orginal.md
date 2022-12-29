@@ -1,0 +1,1 @@
+Repeat the previous question, but calculate the probability that the resulting triangle is obtuse, given that the three numbers for a triangle. Hint: the three lengths will form an obtuse triangle if and only if (i) the sum of every two values is larger than the third and (ii) the sum of the squares of every two side lengths is greater than or equal to the square of the third.
