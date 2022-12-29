@@ -1,0 +1,1 @@
+Write a code fragment that reverses the order of values in a one-dimensional string array. Do not create another array to hold the result. ***Hint***: Use the code in the text for exchanging two elements.
