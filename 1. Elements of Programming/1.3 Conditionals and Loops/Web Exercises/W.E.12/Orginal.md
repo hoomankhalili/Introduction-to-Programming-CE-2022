@@ -1,0 +1,1 @@
+**RGB to HSB converter.** Write a program RGBtoHSV.java that takes an RGB color (three integers between 0 and 255) and transforms it to an [HSB color](https://en.wikipedia.org/wiki/HSL_and_HSV) (three different integers between 0 and 255). Write a program HSVtoRGB.java that applies the inverse transformation.

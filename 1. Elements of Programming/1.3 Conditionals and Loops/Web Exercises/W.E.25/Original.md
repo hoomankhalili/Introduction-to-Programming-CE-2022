@@ -1,0 +1,1 @@
+***Friday the 13th.*** What is the maximum number of consecutive days in which no Friday the 13th occurs? Hint: The Gregorian calendar repeats itself every 400 years (146097 days) so you only need to worry about a 400 year interval.

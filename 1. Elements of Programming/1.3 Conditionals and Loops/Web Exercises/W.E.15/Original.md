@@ -1,0 +1,1 @@
+**Boys and girls.** Repeat the previous question, but assume the couple keeps having children until they have another child which is of the same sex as the first child. How does your answer change if p is different from 1/2?

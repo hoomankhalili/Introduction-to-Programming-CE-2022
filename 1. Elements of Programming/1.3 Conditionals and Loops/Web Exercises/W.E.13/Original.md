@@ -1,0 +1,1 @@
+**Boys and girls.** A couple beginning a family decides to keep having children until they have at least one of either sex. Estimate the average number of children they will have via simulation. Also estimate the most common outcome (record the frequency counts for 2, 3, and 4 children, and also for 5 and above). Assume that the probability p of having a boy or girl is 1/2.
