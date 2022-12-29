@@ -1,0 +1,1 @@
+***Head and tail.*** Write programs Head.java and Tail.java that take an integer command line input N and print out the first or last N lines of the given file. (Print the whole file if it consists of <= N lines of text.)

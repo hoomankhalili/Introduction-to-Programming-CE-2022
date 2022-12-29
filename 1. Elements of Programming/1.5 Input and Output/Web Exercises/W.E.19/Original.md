@@ -1,0 +1,3 @@
+**2D random walk.** Write a program RandomWalk.java to simulate a 2D random walk and animate the results. Start at the center of a 2N-by-2N grid. The current location is displayed in blue; the trail in white.
+
+![Alt text](https://introcs.cs.princeton.edu/java/15inout/images/randomwalk5.png)  ![Alt text](https://introcs.cs.princeton.edu/java/15inout/images/randomwalk25.png)  ![Alt text](https://introcs.cs.princeton.edu/java/15inout/images/randomwalk106.png)

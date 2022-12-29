@@ -1,0 +1,3 @@
+پیاده روی تصادفی دو بعدی. یک برنامه به نام RandomWalk.java بنویسید تا پیاده روی تصادفی دو بعدی را شبیه سازی کند و نتایج را متحرک کند. از مرکز یک شبکه 2N در 2N شروع کنید. مکان فعلی به رنگ آبی و دنباله به رنگ سفید نمایش داده می شود.
+
+![Alt text](https://introcs.cs.princeton.edu/java/15inout/images/randomwalk5.png)  ![Alt text](https://introcs.cs.princeton.edu/java/15inout/images/randomwalk25.png)  ![Alt text](https://introcs.cs.princeton.edu/java/15inout/images/randomwalk106.png)

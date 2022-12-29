@@ -1,0 +1,1 @@
+**Run length encoding.** Write a program RunLengthEncoder.java that encodes a binary input using run length encoding. Write a program RunLengthDecoder.java that decodes a run length encoded message.

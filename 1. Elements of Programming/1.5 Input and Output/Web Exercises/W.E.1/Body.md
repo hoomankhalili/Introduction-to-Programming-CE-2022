@@ -1,0 +1,1 @@
+تعداد کلمات و خطوط. [WordCount.java](https://introcs.cs.princeton.edu/java/15inout/WordCount.java.html) را طوری تغییر دهید که متن را از ورودی استاندارد بخواند و تعداد کاراکترها، کلمات و خطوط متن را چاپ کند.

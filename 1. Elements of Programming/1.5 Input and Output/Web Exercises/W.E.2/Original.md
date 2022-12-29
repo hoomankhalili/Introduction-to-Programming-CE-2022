@@ -1,0 +1,1 @@
+**Rainfall problem.** Write a program Rainfall.java that reads in nonnegative integers (representing rainfall) one at a time until 999999 is entered, and then prints out the average of value (not including 999999).

@@ -1,0 +1,1 @@
+**Changing square.** Write a program that draws a square and changes its color each second.
