@@ -1,0 +1,1 @@
+**Powers of k.** Write a program PowersOfK.java that takes an integer K as command-line argument and prints all the positive powers of K in the Java long data type. Note: the constant Long.MAX_VALUE is the value of the largest integer in long.

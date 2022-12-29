@@ -1,0 +1,1 @@
+**Square root, revisited.** Why not use the loop-continuation condition (Math.abs(t*t - c) > EPSILON) in [Sqrt.java](https://introcs.cs.princeton.edu/java/13flow/Sqrt.java.html) instead of Math.abs(t - c/t) > t*EPSILON)?
