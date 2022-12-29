@@ -1,0 +1,1 @@
+Modify [TwentyQuestions.java](https://introcs.cs.princeton.edu/java/15inout/TwentyQuestions.java.html) so that it re-asks the user to enter a response if the user types in something other than true or false. Hint: add a do-while loop within the main loop.

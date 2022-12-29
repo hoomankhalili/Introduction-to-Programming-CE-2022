@@ -1,0 +1,1 @@
+**Star polygons.** Write a program StarPolygon.java that takes two command line inputs p and q, and plots the {p/q}-star polygon.

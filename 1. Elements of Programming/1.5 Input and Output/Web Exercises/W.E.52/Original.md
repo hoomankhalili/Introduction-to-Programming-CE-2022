@@ -1,0 +1,1 @@
+Write a program Pnorm.java that takes a command-line argument p, reads in real numbers from standard input, and prints out their p-norm. The p-norm norm of a vector (x1, ..., xN) is defined to be the pth root of (|x1|p + |x2|p + ... + |xN|p).

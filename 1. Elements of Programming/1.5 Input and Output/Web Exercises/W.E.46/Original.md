@@ -1,0 +1,1 @@
+**Game.** Implement the game [dodge](http://www.lewpen.com/game/) using StdDraw: move a blue disc within the unit square to touch a randomly placed green disc, while avoiding the moving red discs. After each touch, add a new moving red disc.

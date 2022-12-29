@@ -1,0 +1,1 @@
+**Complete graph.** Write a program to plot that takes an integer N, plots an N-gon, where each vertex lies on a circle of radius 256. Then draw a gray line connecting each pair of vertices.

@@ -1,0 +1,1 @@
+**Yin yang.** Draw a [yin yang](http://www.krazydad.com/bestiary/bestiary_yinyang.html) using StdDraw.arc().

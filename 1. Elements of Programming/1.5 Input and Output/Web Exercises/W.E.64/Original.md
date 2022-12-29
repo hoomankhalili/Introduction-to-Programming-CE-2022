@@ -1,0 +1,1 @@
+What happens if you change the parameter of StdDraw.show() to 0 or 1000 in [BouncingBall.java](https://introcs.cs.princeton.edu/java/15inout/BouncingBall.java.html)?

@@ -1,0 +1,1 @@
+**Elastic collisions with obstacles.** Each ball should have its own mass. Put a large ball in the center with zero initial velocity. Brownian motion.

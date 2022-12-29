@@ -1,0 +1,2 @@
+TwentyQuestions.java را طوری تغییر دهید تا اگر کاربر چیزی غیر از true یا false تایپ کرد، دوباره از کاربر بخواهد که پاسخی را وارد کند. نکته: یک حلقه do-while در حلقه اصلی اضافه کنید.
+[TwentyQuestions.java](https://introcs.cs.princeton.edu/java/15inout/TwentyQuestions.java.html)

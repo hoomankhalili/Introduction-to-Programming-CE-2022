@@ -1,0 +1,1 @@
+**Elastic collisions.** Write a program CollidingBalls.java that takes a command-line argument n and plots the trajectories of n bouncing balls that bounce of the walls and each other according to the laws of elastic collisions. Assume all the balls have the same mass.

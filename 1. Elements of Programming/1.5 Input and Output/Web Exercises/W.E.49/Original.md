@@ -1,0 +1,1 @@
+**Twenty questions.** Write a program QuestionsTwenty.java that plays 20 questions from the opposite point of view: the user thinks of a number between 1 and a million and the computer makes the guesses. Use binary search to ensure that the computer needs at most 20 guesses.

@@ -1,0 +1,1 @@
+What happens if you move the StdDraw.clear(Color.BLACK) command to before the beginning of the while loop in [BouncingBall.java](https://introcs.cs.princeton.edu/java/15inout/BouncingBall.java.html)? Answer: try it and observe a nice woven 3d pattern with the given starting velocity and position.

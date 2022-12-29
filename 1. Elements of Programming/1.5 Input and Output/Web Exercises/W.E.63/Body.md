@@ -1,0 +1,2 @@
+اگر دستور StdDraw.clear (Color.BLACK) را به قبل از شروع حلقه while در BouncingBall.java منتقل کنید، چه اتفاقی می افتد؟
+[BouncingBall.java](https://introcs.cs.princeton.edu/java/15inout/BouncingBall.java.html)

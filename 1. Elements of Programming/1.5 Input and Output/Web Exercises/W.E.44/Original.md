@@ -1,0 +1,1 @@
+**Cart-wheeling Duke.** Modify Duke.java so that it cartwheels 5 times across the screen, from right to left, wrapping around when it hits the window boundary. Repeat this cart-wheeling cycle 100 times. Hint: after displaying a sequence of 17 frames, move 57 pixels to the left and repeat. Name your program MoreDuke.java.

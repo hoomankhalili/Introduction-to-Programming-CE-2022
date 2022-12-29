@@ -1,0 +1,1 @@
+**Optical illusions.** Create a [Kofka ring](http://web.mit.edu/persci/gaz/gaz-teaching/flash/koffka-movie.swf) or one of the other [optical illusions](http://web.mit.edu/persci/gaz/gaz-teaching/index.html) collected by Edward Adelson.

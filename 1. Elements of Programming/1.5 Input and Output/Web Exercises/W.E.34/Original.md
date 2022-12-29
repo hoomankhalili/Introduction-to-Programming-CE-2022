@@ -1,0 +1,1 @@
+**Time series analysis.** This problem investigates two methods for forecasting in time series analysis. Moving average or exponential smoothing.
