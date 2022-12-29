@@ -1,0 +1,1 @@
+**Random walkers.** Suppose that n random walkers, starting in the center of an n-by-n grid, move one step at a time, choosing to go left, right, up, or down with equal probability at each step. Write a program RandomWalkers.java to help formulate and test a hypothesis about the number of steps taken before all cells are touched.

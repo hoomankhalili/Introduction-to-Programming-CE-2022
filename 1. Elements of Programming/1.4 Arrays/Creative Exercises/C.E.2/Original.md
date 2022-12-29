@@ -1,0 +1,1 @@
+**Inverse permutation.** Write a program InversePermutation.java that reads in a permutation of the integers 0 to n-1 from n command-line arguments and prints the inverse permutation. (If the permutation is in an array ```a[]```, its inverse is the array ```b[]``` such that ```a[b[i]] = b[a[i]] = i```.) Be sure to check that the input is a valid permutation.
